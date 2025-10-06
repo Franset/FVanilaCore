@@ -1,0 +1,6 @@
+name: FVanilaCore
+version: ${version}
+main: org.kelsi.fVanilaCore
+api-version: '1.21'
+description: "Самописный плагин для сборки FransetVanila+"
+author: "Franset studios; by KelsiDev"
